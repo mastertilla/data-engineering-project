@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Parquet data files
+*.parquet
+# Database folder
+ny_taxi_postgres_data/
