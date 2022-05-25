@@ -6,13 +6,13 @@ authors = ["Daniel Montilla Navas"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+psycopg2-binary = "^2.9.3"
 pgcli = "^3.4.1"
 jupyterlab = "^3.4.2"
 pandas = "^1.4.2"
 pyarrow = "^8.0.0"
 fastparquet = "^0.8.1"
 SQLAlchemy = "^1.4.36"
-psycopg2 = "^2.9.3"
 
 [tool.poetry.dev-dependencies]
 
