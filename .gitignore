@@ -132,3 +132,6 @@ dmypy.json
 *.parquet
 # Database folder
 ny_taxi_postgres_data/
+
+# csv files
+*.csv
